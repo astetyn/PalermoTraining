@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PalermoTraining">
+    <output-path>$USER_HOME$/Desktop/mc/spigot 1.17.1/plugins</output-path>
+    <root id="archive" name="PalermoTraining.jar">
+      <element id="module-output" name="PalermoTraining" />
+    </root>
+  </artifact>
+</component>

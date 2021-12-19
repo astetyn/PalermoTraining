@@ -1,0 +1,17 @@
+name: PalermoTraining
+main: me.astetyne.palermotraining.PalermoTrainingPlugin
+version: 1.0.0
+author: astetyne
+description: Just a training for palermo minigame.
+api-version: 1.15
+permissions:
+    palermotraining:
+        default: op
+        description: Grants access to PalermoTraining commands.
+
+commands:
+  palermotraining:
+    usage: /palermot <difficulty> <second player>
+    description: Starts new palermo training game.
+    permission: palermotraining
+    aliases: palermot
